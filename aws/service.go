@@ -118,6 +118,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/sns"
 	"github.com/aws/aws-sdk-go-v2/service/sqs"
 	"github.com/aws/aws-sdk-go-v2/service/ssm"
+	"github.com/aws/aws-sdk-go-v2/service/ssmincidents"
 	"github.com/aws/aws-sdk-go-v2/service/ssoadmin"
 	"github.com/aws/aws-sdk-go-v2/service/sts"
 	"github.com/aws/aws-sdk-go-v2/service/transfer"
@@ -1376,6 +1377,17 @@ func SSMClient(ctx context.Context, d *plugin.QueryData) (*ssm.Client, error) {
 		return nil, nil
 	}
 	return ssm.NewFromConfig(*cfg), nil
+}
+
+func SSMIncidentsClient(ctx context.Context, d *plugin.QueryData) (*ssmincidents.Client, error) {
+	cfg, err := getClientForQuerySupportedRegion(ctx, d, ssmincidents.ServiceID)
+	if err != nil {
+		return nil, err
+	}
+	if cfg == nil {
+		return nil, nil
+	}
+	return ssmincidents.NewFromConfig(*cfg), nil
 }
 
 func SQSClient(ctx context.Context, d *plugin.QueryData) (*sqs.Client, error) {
