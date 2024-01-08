@@ -38,7 +38,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/costexplorer v1.25.0
 	github.com/aws/aws-sdk-go-v2/service/databasemigrationservice v1.23.1
 	github.com/aws/aws-sdk-go-v2/service/dax v1.12.0
-	github.com/aws/aws-sdk-go-v2/service/directoryservice v1.16.0
+	github.com/aws/aws-sdk-go-v2/service/directoryservice v1.22.8
 	github.com/aws/aws-sdk-go-v2/service/dlm v1.15.6
 	github.com/aws/aws-sdk-go-v2/service/docdb v1.20.1
 	github.com/aws/aws-sdk-go-v2/service/drs v1.10.0
