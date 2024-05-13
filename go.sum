@@ -356,8 +356,8 @@ github.com/aws/aws-sdk-go-v2/service/globalaccelerator v1.16.0 h1:ql/fiMSSB4Khjq
 github.com/aws/aws-sdk-go-v2/service/globalaccelerator v1.16.0/go.mod h1:DtC1mhXEIaOXYLdHNHXu4BD4r3L2AX1DLipIm+rWjNI=
 github.com/aws/aws-sdk-go-v2/service/glue v1.80.0 h1:Br4I/7NPRMLQiMjumZHG42ORoli2A54cYpM6JgDuaPU=
 github.com/aws/aws-sdk-go-v2/service/glue v1.80.0/go.mod h1:maQT+ebL6UAFXYp8fJlK2Dv/s42LZuggi2l6pVeE2B4=
-github.com/aws/aws-sdk-go-v2/service/guardduty v1.36.2 h1:k4l7fTMNB4FVlqC5ca3VWxTT0bg7AEXqj83qWycxEH8=
-github.com/aws/aws-sdk-go-v2/service/guardduty v1.36.2/go.mod h1:31DEI66V3IcUtmD4vo1JdOU16YZj/Oy231YGM3fdNFc=
+github.com/aws/aws-sdk-go-v2/service/guardduty v1.42.1 h1:r5dFLQUhZi6RMl9UvftA/sI4fHz4m2NMrsmJ8E/Sk4g=
+github.com/aws/aws-sdk-go-v2/service/guardduty v1.42.1/go.mod h1:qXyWkjk60YMVbYEBkQBYqk7d4WJTEPnQzxbWWQ5d6pI=
 github.com/aws/aws-sdk-go-v2/service/health v1.16.0 h1:667XFqUFGBHA2tYlZlgb3nAvM+K+NKT6dZR5sTS1bBE=
 github.com/aws/aws-sdk-go-v2/service/health v1.16.0/go.mod h1:Kor2Z+4yOSJPUV7BAomXYN4EgkYYlORSX+q11cdlBqU=
 github.com/aws/aws-sdk-go-v2/service/iam v1.19.0 h1:9vCynoqC+dgxZKrsjvAniyIopsv3RZFsZ6wkQ+yxtj8=
