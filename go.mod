@@ -88,7 +88,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/pricing v1.18.0
 	github.com/aws/aws-sdk-go-v2/service/ram v1.17.0
 	github.com/aws/aws-sdk-go-v2/service/rds v1.40.1
-	github.com/aws/aws-sdk-go-v2/service/redshift v1.27.1
+	github.com/aws/aws-sdk-go-v2/service/redshift v1.45.1
 	github.com/aws/aws-sdk-go-v2/service/redshiftserverless v1.4.1
 	github.com/aws/aws-sdk-go-v2/service/resourceexplorer2 v1.2.1
 	github.com/aws/aws-sdk-go-v2/service/resourcegroupstaggingapi v1.14.1
