@@ -96,7 +96,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/route53domains v1.14.0
 	github.com/aws/aws-sdk-go-v2/service/route53resolver v1.16.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.30.1
-	github.com/aws/aws-sdk-go-v2/service/s3control v1.29.1
+	github.com/aws/aws-sdk-go-v2/service/s3control v1.46.1
 	github.com/aws/aws-sdk-go-v2/service/sagemaker v1.66.0
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.18.2
 	github.com/aws/aws-sdk-go-v2/service/securityhub v1.27.1
@@ -147,7 +147,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.1.22 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.7.21 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.21 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.13.21 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.17.13 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssmincidents v1.30.4
 	github.com/aws/aws-sdk-go-v2/service/sso v1.12.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.14.0 // indirect
