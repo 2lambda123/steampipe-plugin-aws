@@ -309,8 +309,8 @@ github.com/aws/aws-sdk-go-v2/service/databasemigrationservice v1.23.1 h1:PAbbAPz
 github.com/aws/aws-sdk-go-v2/service/databasemigrationservice v1.23.1/go.mod h1:pOl6OyO4afJ52vesM08ugFIMaIj/GLcHq7jNPcvUNTI=
 github.com/aws/aws-sdk-go-v2/service/dax v1.12.0 h1:g2wSKHbwjpIc9xtp/iRcDFLsK+U+qtcPlgjjlwilTJI=
 github.com/aws/aws-sdk-go-v2/service/dax v1.12.0/go.mod h1:kIbK4cfyQbe0Rq0iD3x8jgDcIbmHlEtBp9QxDT5eU4Q=
-github.com/aws/aws-sdk-go-v2/service/directoryservice v1.22.8 h1:vNEjk1Vfw6PPrSumlnYeHbRTDcegeEOyEWcDh537KRc=
-github.com/aws/aws-sdk-go-v2/service/directoryservice v1.22.8/go.mod h1:pKh/QGOwVNa6Hlxl15NRdTCNBteEKWc3NMYOxNgQ0no=
+github.com/aws/aws-sdk-go-v2/service/directoryservice v1.30.12 h1:/Qr8pHfjZPiHj+RkdugFuQ5T/jwEI0Kx9JPysNUFKWk=
+github.com/aws/aws-sdk-go-v2/service/directoryservice v1.30.12/go.mod h1:k1R2RsmK+8O5FD3eZ1+iroEwJzW+sSXxLMD0Ktgo8aY=
 github.com/aws/aws-sdk-go-v2/service/dlm v1.15.6 h1:Q2V3LZF42n1zZPow04ea5Sn3obvp+rrxkNWodkNWxZU=
 github.com/aws/aws-sdk-go-v2/service/dlm v1.15.6/go.mod h1:87PY7azSbbNrJd8jOpblJ72GpqE5QlI+UVqFrpbR/Hc=
 github.com/aws/aws-sdk-go-v2/service/docdb v1.20.1 h1:TxhuipVhk7v9vjJGBlHTuJ7CeEdUTDNdlC28h4bepeo=
