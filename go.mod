@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/aws/aws-sdk-go v1.44.189
-	github.com/aws/aws-sdk-go-v2 v1.33.0
+	github.com/aws/aws-sdk-go-v2 v1.34.0
 	github.com/aws/aws-sdk-go-v2/config v1.18.10
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.10
 	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.19.1
@@ -119,7 +119,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/wafv2 v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/wellarchitected v1.20.1
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.28.0
-	github.com/aws/smithy-go v1.22.1
+	github.com/aws/smithy-go v1.22.2
 	github.com/gocarina/gocsv v0.0.0-20201208093247-67c824bc04d4
 	github.com/golang/protobuf v1.5.3
 	github.com/turbot/go-kit v0.8.0-rc.0
